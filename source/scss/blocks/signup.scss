@@ -1,0 +1,25 @@
+.signup {
+	width: 100%;
+	max-width: 800px;
+	padding: 60px 67px;
+	margin: 0 auto;
+
+	&__img {
+		width: 100%;
+		height: 100%;
+		max-width: 137px;
+		background-color: #5a61ed;
+		padding: 6px 22px;
+	}
+
+	&__title {
+		font-family: 'PT Sans', sans-serif;
+		font-size: 49px;
+		font-weight: 400;
+		line-height: normal;
+		letter-spacing: 0.5px;
+		color: #ffffff;
+		transform: rotate(270deg);
+		margin-right: auto;
+	}
+}
